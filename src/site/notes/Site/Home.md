@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/site/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-Test
+[[Monster Trainers Handbook/Wildkin/Wildkins/Barklet\|Barklet]]
